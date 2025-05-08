@@ -15,6 +15,6 @@ The `--mount source=psudata,target=/home/data` parameter creates a persistent Do
 
 # Resources
 
-[Create a persistent docker image of PowerShell Universal](https://ironmansoftware.com/training/powershell-universal/installation-docker)
-[Introduction to GitHub Actions with Docker](https://docs.docker.com/guides/gha/)
-[Create an access token](https://docs.docker.com/security/for-developers/access-tokens/#create-an-access-token)
+1. [Create a persistent docker image of PowerShell Universal](https://ironmansoftware.com/training/powershell-universal/installation-docker)
+2. [Create an access token](https://docs.docker.com/security/for-developers/access-tokens/#create-an-access-token)
+3. [Introduction to GitHub Actions with Docker](https://docs.docker.com/guides/gha/)
